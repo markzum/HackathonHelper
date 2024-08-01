@@ -1,0 +1,6 @@
+config.py
+test1.py
+test2.py
+venv/
+__pycache__/
+db.db
